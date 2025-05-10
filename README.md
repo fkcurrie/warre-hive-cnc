@@ -45,9 +45,9 @@ For a detailed discussion of the design process, finger joint techniques, and CN
 ![Hive Photo 2](images/IMG_7617.jpg)
 ![Hive Photo 3](images/IMG_7618.jpg)
 
-### Project Video
+### Bees using the Hive
 
-The following video shows the Warre hive CNC process and assembly. Most platforms do not support inline playback of local video files in Markdown. To view, download and open the file locally:
+The bees in action:
 
 - [Download and watch IMG_7619.MOV](images/IMG_7619.MOV)
 - [Watch on Google Photos](https://photos.app.goo.gl/gFv2ZMfHhT52Lzts6)
