@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://fkcurrie.github.io/warre-hive-cnc/sitemap.xml
+
 # If you create a sitemap.xml, add the following line:
 # Sitemap: https://fkcurrie.github.io/warre-hive-cnc/sitemap.xml 
