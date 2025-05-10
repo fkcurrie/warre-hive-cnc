@@ -31,4 +31,16 @@ For a detailed discussion of the design process, finger joint techniques, and CN
 ![Finger jointed Warre hive box 2](images/24f319c8b937f94452d67235b093487e5ff4e25d.jpeg)
 ![Finger jointed Warre hive box 3](images/110926e7bd35cbe7a05c371a121e99d418c8c284.jpeg)
 ![Finger jointed Warre hive box 4](images/ad8b23d9b4bb8a5cd9c794063e8a4e28c2e67e44.jpeg)
-![Finger jointed Warre hive box 5](images/e92610142900fcddc8800f9d62076b4aa5bbf4a3.jpeg) 
+![Finger jointed Warre hive box 5](images/e92610142900fcddc8800f9d62076b4aa5bbf4a3.jpeg)
+
+#### Additional Photos
+
+![Assembly step 1](images/IMG_7616.HEIC)
+![Assembly step 2](images/IMG_7617.HEIC)
+![Assembly step 3](images/IMG_7618.HEIC)
+
+### Project Video
+
+The following video shows the Warre hive CNC process and assembly. Most platforms do not support inline playback of local video files in Markdown. To view, download and open the file locally:
+
+- [Download and watch IMG_7619.MOV](images/IMG_7619.MOV) 
