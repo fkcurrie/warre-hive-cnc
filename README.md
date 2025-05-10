@@ -41,9 +41,9 @@ For a detailed discussion of the design process, finger joint techniques, and CN
 
 #### End Product Photos
 
-![Hive Photo 1](images/IMG_7616.HEIC)
-![Hive Photo 2](images/IMG_7617.HEIC)
-![Hive Photo 3](images/IMG_7618.HEIC)
+![Hive Photo 1](images/IMG_7616.jpg)
+![Hive Photo 2](images/IMG_7617.jpg)
+![Hive Photo 3](images/IMG_7618.jpg)
 
 ### Project Video
 
