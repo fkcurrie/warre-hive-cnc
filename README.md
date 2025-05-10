@@ -50,4 +50,10 @@ For a detailed discussion of the design process, finger joint techniques, and CN
 The following video shows the Warre hive CNC process and assembly. Most platforms do not support inline playback of local video files in Markdown. To view, download and open the file locally:
 
 - [Download and watch IMG_7619.MOV](images/IMG_7619.MOV)
-- [Watch on Google Photos](https://photos.app.goo.gl/gFv2ZMfHhT52Lzts6) 
+- [Watch on Google Photos](https://photos.app.goo.gl/gFv2ZMfHhT52Lzts6)
+
+## Support
+
+If you find this project useful, please consider supporting it!
+
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/fkcbne?country.x=CA&locale.x=en_US) 
