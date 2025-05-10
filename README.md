@@ -33,11 +33,11 @@ For a detailed discussion of the design process, finger joint techniques, and CN
 ![Finger jointed Warre hive box 4](images/ad8b23d9b4bb8a5cd9c794063e8a4e28c2e67e44.jpeg)
 ![Finger jointed Warre hive box 5](images/e92610142900fcddc8800f9d62076b4aa5bbf4a3.jpeg)
 
-#### Additional Photos
+#### End Product Photos
 
-![Assembly step 1](images/IMG_7616.HEIC)
-![Assembly step 2](images/IMG_7617.HEIC)
-![Assembly step 3](images/IMG_7618.HEIC)
+![Hive Photo 1](images/IMG_7616.HEIC)
+![Hive Photo 2](images/IMG_7617.HEIC)
+![Hive Photo 3](images/IMG_7618.HEIC)
 
 ### Project Video
 
