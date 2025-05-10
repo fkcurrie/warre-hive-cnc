@@ -21,6 +21,12 @@ This repository contains SVG files for CNC cutting parts to build a Warre hive f
 3. Assemble the cut pieces to build a complete Warre hive.
 4. Refer to the ESTLCAM project files for examples of how to set up cut types (pocket/part) and appropriate cutting depths in your CNC software.
 
+## Instructional Guide
+
+For step-by-step directions on using Inkscape to create finger joints for CNC machining, see:
+- [Instructional Guide: Creating Finger Joints for CNC Machining (PDF)](Documentation/Instructional%20Guide_%20Creating%20Finger%20Joints%20for%20CNC%20Machining.pdf)
+- [Live Google Doc version](https://docs.google.com/document/d/1Y7qX6CegrHWxjC8ED7IoqVyE1ZTBiIDg-i6wG8RLdCI)
+
 ## More Information
 
 For a detailed discussion of the design process, finger joint techniques, and CNC setup, see the V1 Engineering Forum thread: [Impressed with Finger Joints for Beehives (Warre)](https://forum.v1e.com/t/impressed-with-finger-joints-for-beehives-warre/47693/1)
