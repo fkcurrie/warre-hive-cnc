@@ -27,8 +27,8 @@ For a detailed discussion of the design process, finger joint techniques, and CN
 
 ### Example Photos
 
-![Finger jointed Warre hive box 1](https://forum.v1e.com/uploads/default/original/3X/7/2/72e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2.jpeg)
-![Finger jointed Warre hive box 2](https://forum.v1e.com/uploads/default/original/3X/1/9/19e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2.jpeg)
-![Finger jointed Warre hive box 3](https://forum.v1e.com/uploads/default/original/3X/2/3/23e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2.jpeg)
-![Finger jointed Warre hive box 4](https://forum.v1e.com/uploads/default/original/3X/4/5/45e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2.jpeg)
-![Finger jointed Warre hive box 5](https://forum.v1e.com/uploads/default/original/3X/6/7/67e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2e2.jpeg) 
+![Finger jointed Warre hive box 1](images/443d2574844f79d23d0aaaeaeca64a9b41243d25.jpeg)
+![Finger jointed Warre hive box 2](images/24f319c8b937f94452d67235b093487e5ff4e25d.jpeg)
+![Finger jointed Warre hive box 3](images/110926e7bd35cbe7a05c371a121e99d418c8c284.jpeg)
+![Finger jointed Warre hive box 4](images/ad8b23d9b4bb8a5cd9c794063e8a4e28c2e67e44.jpeg)
+![Finger jointed Warre hive box 5](images/e92610142900fcddc8800f9d62076b4aa5bbf4a3.jpeg) 
